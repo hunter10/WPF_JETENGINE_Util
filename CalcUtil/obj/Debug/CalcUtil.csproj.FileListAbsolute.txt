@@ -1,0 +1,15 @@
+D:\Work\JetEngineUtil\CalcUtil\bin\Debug\CalcUtil.exe.config
+D:\Work\JetEngineUtil\CalcUtil\bin\Debug\CalcUtil.exe
+D:\Work\JetEngineUtil\CalcUtil\bin\Debug\CalcUtil.pdb
+D:\Work\JetEngineUtil\CalcUtil\obj\Debug\CalcUtil.csprojAssemblyReference.cache
+D:\Work\JetEngineUtil\CalcUtil\obj\Debug\MainWindow.g.cs
+D:\Work\JetEngineUtil\CalcUtil\obj\Debug\App.g.cs
+D:\Work\JetEngineUtil\CalcUtil\obj\Debug\CalcUtil_MarkupCompile.cache
+D:\Work\JetEngineUtil\CalcUtil\obj\Debug\CalcUtil_MarkupCompile.lref
+D:\Work\JetEngineUtil\CalcUtil\obj\Debug\MainWindow.baml
+D:\Work\JetEngineUtil\CalcUtil\obj\Debug\CalcUtil.g.resources
+D:\Work\JetEngineUtil\CalcUtil\obj\Debug\CalcUtil.Properties.Resources.resources
+D:\Work\JetEngineUtil\CalcUtil\obj\Debug\CalcUtil.csproj.GenerateResource.cache
+D:\Work\JetEngineUtil\CalcUtil\obj\Debug\CalcUtil.csproj.CoreCompileInputs.cache
+D:\Work\JetEngineUtil\CalcUtil\obj\Debug\CalcUtil.exe
+D:\Work\JetEngineUtil\CalcUtil\obj\Debug\CalcUtil.pdb
